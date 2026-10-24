@@ -1,0 +1,22 @@
+name = "ADR Signal"
+
+# All optional: without Gemini the API uses the offline keyword extractor; without Twilio follow-ups are mocked.
+[[secret]]
+name = "GEMINI_API_KEY"
+required = false
+description = "Google Gemini API key for reading free-text reports and medicine photos."
+
+[[secret]]
+name = "TWILIO_ACCOUNT_SID"
+required = false
+description = "Twilio account SID for WhatsApp follow-ups."
+
+[[secret]]
+name = "TWILIO_AUTH_TOKEN"
+required = false
+description = "Twilio auth token for WhatsApp follow-ups."
+
+[[secret]]
+name = "TWILIO_WHATSAPP_FROM"
+required = false
+description = "Twilio WhatsApp sender number, e.g. +14155238886."

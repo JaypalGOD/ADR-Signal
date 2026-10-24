@@ -1,0 +1,232 @@
+[
+  {
+    "generic_name": "Amlodipine",
+    "common_indian_brands": ["Amlong (Micro Labs)", "Amlokind (Mankind)", "Amlopres (Cipla)", "Stamlo (Dr Reddy's)"],
+    "category": "Blood pressure (calcium channel blocker)",
+    "common_adrs": ["Swelling of ankles, feet and legs (oedema)", "Headache", "Dizziness", "Sleepiness", "Palpitations / fast heartbeat", "Flushing of face or neck", "Tummy pain", "Nausea", "Constipation or diarrhoea", "Tiredness (fatigue)"],
+    "serious_adrs": ["Anaphylaxis (swollen throat/tongue, difficulty breathing)", "Acute pancreatitis", "Stevens-Johnson syndrome", "Heart attack (very rare)"],
+    "source": "https://www.nhs.uk/medicines/amlodipine/side-effects-of-amlodipine/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Amlong"
+  },
+  {
+    "generic_name": "Telmisartan",
+    "common_indian_brands": ["Telma (Glenmark)", "Telmikind (Mankind)", "Telsartan (Dr Reddy's)"],
+    "category": "Blood pressure (angiotensin receptor blocker)",
+    "common_adrs": ["Back pain", "Sinus pain and congestion", "Diarrhoea"],
+    "serious_adrs": ["Swelling of face, throat, tongue, lips, hands or legs (angioedema)", "Difficulty breathing or swallowing", "Hoarseness", "Blistering of skin or rash", "Leg pain/cramping on walking"],
+    "source": "https://medlineplus.gov/druginfo/meds/a601249.html",
+    "brand_source": "https://pharmeasy.in/search/all?name=Telma"
+  },
+  {
+    "generic_name": "Losartan",
+    "common_indian_brands": ["Losar (Torrent)", "Repace (Sun Pharma)", "Losacar (Zydus)"],
+    "category": "Blood pressure (angiotensin receptor blocker)",
+    "common_adrs": ["Dizziness", "Tiredness", "Headache", "Tummy pain", "Nausea or vomiting", "Swelling in legs, ankles or feet (oedema)"],
+    "serious_adrs": ["Anaphylaxis", "Fast or irregular heartbeat", "Liver problems (yellow skin/eyes)"],
+    "source": "https://www.nhs.uk/medicines/losartan/side-effects-of-losartan/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Losar"
+  },
+  {
+    "generic_name": "Atenolol",
+    "common_indian_brands": ["Aten (Zydus)", "Tenormin (Abbott)"],
+    "category": "Blood pressure (beta blocker)",
+    "common_adrs": ["Tiredness and weakness", "Cold, numb or tingly hands and feet", "Nausea or vomiting", "Diarrhoea", "Slow heart rate"],
+    "serious_adrs": ["Anaphylaxis", "Heart problems (breathlessness, ankle swelling, fainting)", "Liver problems including jaundice", "Hallucinations or psychosis"],
+    "source": "https://www.nhs.uk/medicines/atenolol/side-effects-of-atenolol/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Aten"
+  },
+  {
+    "generic_name": "Metoprolol",
+    "common_indian_brands": ["Met XL (Ajanta)", "Metolar XR (Cipla)"],
+    "category": "Blood pressure / heart (beta blocker)",
+    "common_adrs": ["Headache", "Tiredness, dizziness or weakness", "Cold hands or feet", "Nausea", "Stomach pain"],
+    "serious_adrs": ["Heart problems (worsening breathlessness, swollen ankles, irregular heartbeat)", "Signs of too much thyroid hormone (fast heart rate, trembling)", "Low platelets (unexplained bruising)", "Chest pain / heart attack"],
+    "source": "https://www.nhs.uk/medicines/metoprolol/side-effects-of-metoprolol/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Metolar"
+  },
+  {
+    "generic_name": "Metformin",
+    "common_indian_brands": ["Glycomet (USV)", "Glyciphage (Franco-Indian)", "Obimet (Corona Remedies)"],
+    "category": "Diabetes (biguanide)",
+    "common_adrs": ["Nausea or vomiting", "Diarrhoea", "Tummy pain", "Loss of appetite", "Metallic/changed taste", "Vitamin B12 deficiency (tiredness)"],
+    "serious_adrs": ["Lactic acidosis (vomiting, stomach pain, muscle cramps, breathing problems)", "Anaphylaxis", "Hepatitis (yellow skin/eyes)"],
+    "source": "https://www.nhs.uk/medicines/metformin/side-effects-of-metformin/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Glycomet%20500"
+  },
+  {
+    "generic_name": "Glimepiride",
+    "common_indian_brands": ["Amaryl (marketed by Emcure)", "Glimisave (Eris)"],
+    "category": "Diabetes (sulfonylurea)",
+    "common_adrs": ["Low blood sugar (hypoglycaemia)", "Dizziness", "Nausea"],
+    "serious_adrs": ["Liver problems (yellow skin/eyes, dark urine, pale stools, upper-right stomach pain)", "Unusual bruising or bleeding", "Fever and sore throat (possible blood disorder)"],
+    "source": "https://medlineplus.gov/druginfo/meds/a696016.html",
+    "brand_source": "https://pharmeasy.in/search/all?name=Amaryl"
+  },
+  {
+    "generic_name": "Sitagliptin",
+    "common_indian_brands": ["Januvia (MSD; listed under Abbott in India)", "Istavel (Sun Pharma)"],
+    "category": "Diabetes (DPP-4 inhibitor)",
+    "common_adrs": ["Headache", "Low blood sugar when combined with other diabetes medicines"],
+    "serious_adrs": ["Pancreatitis (severe stomach/back pain)", "Anaphylaxis", "Stevens-Johnson syndrome", "Angioedema"],
+    "source": "https://www.nhs.uk/medicines/sitagliptin/side-effects-of-sitagliptin/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Istavel"
+  },
+  {
+    "generic_name": "Paracetamol (acetaminophen)",
+    "common_indian_brands": ["Dolo 650 (Micro Labs)", "Crocin (Haleon/GSK)", "Calpol (GSK)"],
+    "category": "Pain / fever (analgesic-antipyretic)",
+    "common_adrs": [],
+    "common_note": "Side effects are very rare when taken correctly (NHS)",
+    "serious_adrs": ["Anaphylaxis", "Liver damage / jaundice (especially overdose or alcohol use)", "Blood cell problems (easy bruising, nosebleeds)", "Serious skin reactions (red, peeling or blistering skin)", "Fixed drug eruption (PvPI signal)"],
+    "source": "https://www.nhs.uk/medicines/paracetamol-for-adults/side-effects-of-paracetamol-for-adults/ ; https://medlineplus.gov/druginfo/meds/a681004.html ; https://www.ipc.gov.in/images/PvPI_Profile_-_19.9.2025.pdf",
+    "brand_source": "https://pharmeasy.in/search/all?name=Dolo%20650"
+  },
+  {
+    "generic_name": "Ibuprofen",
+    "common_indian_brands": ["Brufen (Abbott)", "Combiflam (ibuprofen + paracetamol, Sanofi)", "Ibugesic Plus (ibuprofen + paracetamol, Cipla)"],
+    "category": "Pain / fever (NSAID)",
+    "common_adrs": ["Indigestion and stomach ache", "Nausea or vomiting", "Headache", "Rash", "Dizziness", "Diarrhoea or constipation"],
+    "serious_adrs": ["Stomach ulcer or bleeding (black stools, vomiting blood)", "Anaphylaxis", "Kidney problems (blood in urine, swelling)", "Fixed drug eruption (PvPI signal)"],
+    "source": "https://www.nhs.uk/medicines/ibuprofen-for-adults/ ; https://www.ipc.gov.in/images/PvPI_Profile_-_19.9.2025.pdf",
+    "brand_source": "https://pharmeasy.in/search/all?name=Brufen"
+  },
+  {
+    "generic_name": "Diclofenac",
+    "common_indian_brands": ["Voveran (Novartis)"],
+    "category": "Pain / inflammation (NSAID)",
+    "common_adrs": ["Nausea or vomiting", "Diarrhoea", "Dizziness or vertigo", "Headache", "Stomach ache", "Wind"],
+    "serious_adrs": ["Stomach/gut bleeding (black stools, vomiting blood)", "Stomach ulcer", "Liver problems (yellow skin/eyes)", "Hives or swelling", "Heart failure symptoms", "Heart attack", "Stroke"],
+    "source": "https://www.nhs.uk/medicines/diclofenac/side-effects-of-diclofenac/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Voveran"
+  },
+  {
+    "generic_name": "Amoxicillin + clavulanic acid (co-amoxiclav)",
+    "common_indian_brands": ["Augmentin (GSK)", "Clavam (Alkem)", "Moxikind-CV (Mankind)"],
+    "category": "Antibiotic (penicillin + beta-lactamase inhibitor)",
+    "common_adrs": ["Diarrhoea", "Nausea or vomiting", "Thrush (fungal infection)"],
+    "serious_adrs": ["Anaphylaxis", "Severe skin reactions (blistering or peeling rash)", "Liver problems (pale stools, dark urine, jaundice)", "Acute pancreatitis"],
+    "source": "https://www.nhs.uk/medicines/co-amoxiclav/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Clavam"
+  },
+  {
+    "generic_name": "Azithromycin",
+    "common_indian_brands": ["Azithral (Alembic)", "Azee (Cipla)"],
+    "category": "Antibiotic (macrolide)",
+    "common_adrs": ["Nausea", "Diarrhoea", "Vomiting", "Loss of appetite", "Headache", "Dizziness or tiredness", "Changed sense of taste"],
+    "serious_adrs": ["Irregular or fast heartbeat (arrhythmia)", "Liver or gallbladder problems (jaundice)", "Tinnitus / temporary hearing loss / vertigo", "Pancreatitis", "Kidney problems (blood in urine)", "Severe or bloody diarrhoea", "Chest pain"],
+    "source": "https://www.nhs.uk/medicines/azithromycin/side-effects-of-azithromycin/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Azithral"
+  },
+  {
+    "generic_name": "Ciprofloxacin",
+    "common_indian_brands": ["Ciplox (Cipla)", "Cifran (Sun Pharma / Ranbaxy)"],
+    "category": "Antibiotic (fluoroquinolone)",
+    "common_adrs": ["Nausea", "Vomiting", "Headache", "Diarrhoea", "Eye discomfort or pain"],
+    "serious_adrs": ["Anaphylaxis", "Acute aortic dissection (severe spreading chest pain)", "Seizures", "Peripheral neuropathy (numbness/tingling)", "Tendon damage or rupture", "Mood changes, psychosis, suicidal thoughts"],
+    "source": "https://www.nhs.uk/medicines/ciprofloxacin/side-effects-of-ciprofloxacin/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Ciplox"
+  },
+  {
+    "generic_name": "Cefixime",
+    "common_indian_brands": ["Taxim-O (Alkem)", "Zifi (FDC)"],
+    "category": "Antibiotic (third-generation cephalosporin)",
+    "common_adrs": ["Diarrhoea", "Nausea", "Vomiting", "Stomach pain", "Gas", "Heartburn"],
+    "serious_adrs": ["Watery or bloody stools with cramps/fever (C. difficile)", "Allergic reaction (rash, hives, swelling, difficulty breathing)", "Acute generalized exanthematous pustulosis (PvPI signal)"],
+    "source": "https://medlineplus.gov/druginfo/meds/a690007.html ; https://www.ipc.gov.in/images/PvPI_Profile_-_19.9.2025.pdf",
+    "brand_source": "https://pharmeasy.in/search/all?name=Taxim"
+  },
+  {
+    "generic_name": "Atorvastatin",
+    "common_indian_brands": ["Atorva (Zydus)", "Storvas (Sun Pharma / Ranbaxy)", "Lipitor (Pfizer)"],
+    "category": "Cholesterol (statin)",
+    "common_adrs": ["Headache", "Dizziness", "Nausea", "Digestive problems (constipation, diarrhoea, indigestion, wind)", "Muscle aches and swollen joints", "Blocked or runny nose, nosebleeds", "Sleep problems"],
+    "serious_adrs": ["Hepatitis (yellow skin/eyes)", "Pancreatitis", "Muscle damage (severe pain, weakness, red/brown urine)", "Anaphylaxis"],
+    "source": "https://www.nhs.uk/medicines/atorvastatin/side-effects-of-atorvastatin/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Atorva"
+  },
+  {
+    "generic_name": "Rosuvastatin",
+    "common_indian_brands": ["Rosuvas (Sun Pharma / Ranbaxy)", "Rozavel (Sun Pharma)", "Crestor (AstraZeneca)"],
+    "category": "Cholesterol (statin)",
+    "common_adrs": ["Headache", "Dizziness", "Nausea", "Digestive problems (constipation, diarrhoea, indigestion, wind)", "Muscle aches", "Sleep problems"],
+    "serious_adrs": ["Hepatitis (yellow skin/eyes)", "Pancreatitis", "Muscle damage (severe pain, weakness, red/brown urine)", "Anaphylaxis"],
+    "source": "https://www.nhs.uk/medicines/rosuvastatin/side-effects-of-rosuvastatin/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Rosuvas"
+  },
+  {
+    "generic_name": "Isoniazid",
+    "common_indian_brands": ["Isokin (Pfizer)"],
+    "category": "Tuberculosis (first-line anti-TB)",
+    "common_adrs": ["Upset stomach"],
+    "serious_adrs": ["Severe, sometimes fatal liver damage (hepatitis)", "Rash, hives, peeling or blistering skin, fever, swollen glands", "Swelling of face, lips, tongue or throat", "Numbness or tingling in hands and feet (peripheral neuropathy)", "Problems with walking/coordination, tremors, seizures", "Eye pain or vision changes"],
+    "source": "https://medlineplus.gov/druginfo/meds/a682401.html",
+    "brand_source": "https://www.medkart.in/hi/order-medicine/isokin-300mg-tablet-10s",
+    "brand_note": "Under India's NTEP most patients get free fixed-dose combinations (e.g. R-Cinex by Lupin, Forecox by Macleods), not single-drug brands. Isokin is confirmed only on a retailer listing."
+  },
+  {
+    "generic_name": "Rifampicin (rifampin)",
+    "common_indian_brands": ["R-Cinex (rifampicin + isoniazid, Lupin)", "Forecox (4-drug FDC, Macleods)"],
+    "category": "Tuberculosis (first-line anti-TB)",
+    "common_adrs": ["Harmless orange/red-brown colour of urine, sweat, tears, saliva", "Itching", "Flushing", "Headache", "Drowsiness, dizziness", "Heartburn, stomach cramps", "Loss of appetite, nausea, vomiting, diarrhoea", "Menstrual changes"],
+    "serious_adrs": ["Liver problems (dark urine, yellow skin/eyes, nausea)", "Allergic reaction (rash, hives, swelling, difficulty breathing)", "Watery or bloody stools with cramps/fever (C. difficile)"],
+    "source": "https://medlineplus.gov/druginfo/meds/a682403.html",
+    "brand_source": "https://pharmeasy.in/online-medicine-order/r-cinex-z-tab-59196 ; https://www.gnhindia.com/products/forecox",
+    "brand_note": "No single-ingredient rifampicin brand was verified. The listed brands are fixed-dose combinations."
+  },
+  {
+    "generic_name": "Pyrazinamide",
+    "common_indian_brands": ["R-Cinex Z (rifampicin + isoniazid + pyrazinamide, Lupin)", "Forecox (4-drug FDC, Macleods)"],
+    "category": "Tuberculosis (first-line anti-TB)",
+    "common_adrs": ["Upset stomach", "Fatigue"],
+    "serious_adrs": ["Liver problems (yellow skin/eyes, dark urine)", "Joint pain and swelling (gout-like)", "Skin rash, fever", "Unusual bleeding or bruising", "Difficult urination"],
+    "source": "https://medlineplus.gov/druginfo/meds/a682402.html",
+    "brand_source": "https://pharmeasy.in/online-medicine-order/r-cinex-z-tab-59196 ; https://www.gnhindia.com/products/forecox",
+    "brand_note": "No single-ingredient pyrazinamide brand was verified. The listed brands are fixed-dose combinations."
+  },
+  {
+    "generic_name": "Ethambutol",
+    "common_indian_brands": ["Combutol (Lupin)"],
+    "category": "Tuberculosis (first-line anti-TB)",
+    "common_adrs": ["Loss of appetite", "Upset stomach", "Vomiting", "Numbness and tingling in hands or feet"],
+    "serious_adrs": ["Blurred vision / sudden vision changes (optic neuritis)", "Red-green colour blindness", "Skin rash, itching"],
+    "source": "https://medlineplus.gov/druginfo/meds/a682550.html",
+    "brand_source": "https://pharmeasy.in/online-medicine-order/combutol-600mg-tablet-41837"
+  },
+  {
+    "generic_name": "Levothyroxine",
+    "common_indian_brands": ["Thyronorm (Abbott)", "Eltroxin (GSK)", "Thyrox (Macleods)"],
+    "category": "Thyroid (hormone replacement)",
+    "common_adrs": ["Difficulty sleeping (insomnia)", "Headache", "Feeling anxious", "Sweating", "Hair loss"],
+    "serious_adrs": ["Anaphylaxis", "Thyroid crisis (high temperature, fast/irregular heartbeat, dizziness/fainting, jaundice)"],
+    "source": "https://www.nhs.uk/medicines/levothyroxine/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Thyronorm"
+  },
+  {
+    "generic_name": "Pantoprazole",
+    "common_indian_brands": ["Pan 40 (Alkem)", "Pantocid (Sun Pharma)"],
+    "category": "Acidity (proton pump inhibitor)",
+    "common_adrs": ["Headache", "Diarrhoea", "Nausea or vomiting", "Constipation", "Dry mouth", "Tiredness"],
+    "common_note": "No common side effects; the ones listed are uncommon (NHS)",
+    "serious_adrs": ["Subacute cutaneous lupus (joint pain + sun-exposed rash)", "Liver problems (yellow skin/eyes, dark urine)", "Kidney problems (pain on urination, less urine, swollen ankles)", "Severe or persistent diarrhoea", "Anaphylaxis"],
+    "source": "https://www.nhs.uk/medicines/pantoprazole/side-effects-of-pantoprazole/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Pan%2040"
+  },
+  {
+    "generic_name": "Omeprazole",
+    "common_indian_brands": ["Omez (Dr Reddy's)"],
+    "category": "Acidity (proton pump inhibitor)",
+    "common_adrs": ["Headache", "Stomach pain", "Nausea or vomiting", "Constipation or diarrhoea", "Wind"],
+    "serious_adrs": ["Very low vitamin B12 (long-term use)", "Weakened bones / fractures (long-term use)", "Anaphylaxis", "Lupus-type rash with joint pain"],
+    "source": "https://www.nhs.uk/medicines/omeprazole/side-effects-of-omeprazole/",
+    "brand_source": "https://pharmeasy.in/search/all?name=Omez"
+  },
+  {
+    "generic_name": "Rabeprazole",
+    "common_indian_brands": ["Rablet (Lupin)", "Razo (Dr Reddy's)"],
+    "category": "Acidity (proton pump inhibitor)",
+    "common_adrs": ["Headache", "Nausea", "Vomiting", "Constipation", "Diarrhoea", "Gas", "Sore throat"],
+    "serious_adrs": ["Severe skin reactions (blistering, peeling, mouth/genital sores)", "Allergic reaction (rash, swelling, difficulty breathing)", "Irregular heartbeat, muscle spasms, seizures (low magnesium)", "Severe watery diarrhoea (C. difficile)", "Lupus-type rash and joint pain", "Kidney problems", "Bone fractures (long-term use)"],
+    "source": "https://medlineplus.gov/druginfo/meds/a699060.html",
+    "brand_source": "https://pharmeasy.in/search/all?name=Rablet"
+  }
+]
