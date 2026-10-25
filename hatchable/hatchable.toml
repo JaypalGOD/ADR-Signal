@@ -1,0 +1,7 @@
+name = "ADR Signal"
+
+# Optional: without Gemini the API uses the offline keyword extractor.
+[[secret]]
+name = "GEMINI_API_KEY"
+required = false
+description = "Google Gemini API key for reading free-text reports and medicine photos."
